@@ -16,4 +16,4 @@
 
 - Type this command (\<comment>: Add a commit message when pushing to GitHub)
 
-        ./github "\<comment>"
+        ./github "<comment>"
