@@ -17,3 +17,13 @@
 - Type this command (\<comment>: Add a commit message when pushing to GitHub)
 
         ./github "\<comment>"
+
+## 🗂️ Project Structure
+DAZONE_2025/
+├── cleaned_data/             # Cleaned dataset storage
+├── data/                     # Dataset storage
+├── main.ipynb                # Jupyter notebooks for preprocessing
+├── github.bat                # short command in terminal for push code to github
+├── .gitignore
+├── requirements.txt          # Python dependencies
+└── README.md
