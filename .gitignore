@@ -1,3 +1,7 @@
 data/
 
-charts.pbix
+cleaned_data/
+
+filled_data/
+
+dashboard.pbix

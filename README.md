@@ -1,6 +1,6 @@
 # [CUỘC THI PHÂN TÍCH DỮ LIỆU DAZONE 2025](https://www.facebook.com/DAZONE.RCS)
 
-## LOICHOI - Team members - Top 40 (manifest top 20)
+## LOICHOI - Team members - [Top 40](https://www.facebook.com/share/v/1KeH7KVmuX/) (manifest top 20)
 
 | Fullname           | University |
 |--------------------|:----------:|
@@ -23,10 +23,11 @@
 ```
 DAZONE_2025/
 ├── cleaned_data/             # Cleaned dataset storage
+├── filled_data/              # Filled dataset storage for modeling
 ├── data/                     # Dataset storage
-├── main.ipynb                # Jupyter notebooks for preprocessing
+├── dazone-2025.ipynb         # Jupyter notebooks for preprocessing
+├── report-dazone.pdf         # Report for case study 2.1
 ├── github.bat                # short command in terminal for push code to github
 ├── .gitignore
-├── requirements.txt          # Python dependencies
 └── README.md
 ```
