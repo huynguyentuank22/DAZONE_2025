@@ -8,16 +8,6 @@
 | Nguyen Tuan Huy    | HCMUT      |
 | Tran Nguyen Quang Huy | UEH      |
 
-## How to push to Github
-
-- Open the terminal
-
-        Ctrl + J
-
-- Type this command (\<comment>: Add a commit message when pushing to GitHub)
-
-        ./github "<comment>"
-
 ## 🗂️ Project Structure
 
 ```
