@@ -1,6 +1,6 @@
-# [CUỘC THI PHÂN TÍCH DỮ LIỆU DAZONE 2025](https://www.facebook.com/DAZONE.RCS)
+# **[CUỘC THI PHÂN TÍCH DỮ LIỆU DAZONE 2025](https://www.facebook.com/DAZONE.RCS)**
 
-## LOICHOI - Team members - [Top 40](https://www.facebook.com/share/v/1KeH7KVmuX/) (manifest top 20)
+## **LOICHOI - Team members - [Top 10](https://www.facebook.com/share/v/12JRjwdFsgH/) (manifest top 4)**
 
 | Fullname           | University |
 |--------------------|:----------:|
