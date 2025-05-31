@@ -15,8 +15,8 @@ DAZONE_2025/
 ├── cleaned_data/             # Cleaned dataset storage
 ├── filled_data/              # Filled dataset storage for modeling
 ├── data/                     # Dataset storage
-├── dazone-2025.ipynb         # Jupyter notebooks for preprocessing
-├── report-dazone.pdf         # Report for case study 2.1
+├── 2.1-preprocessing.ipynb   # Jupyter notebooks for preprocessing
+├── 2.1-report.pdf            # Report for case study 2.1
 ├── github.bat                # short command in terminal for push code to github
 ├── .gitignore
 └── README.md
