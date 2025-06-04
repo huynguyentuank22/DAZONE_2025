@@ -1,7 +1,17 @@
-data/
+data/*
+!data/.gitkeep
 
-cleaned_data/
+cleaned_data/*
+!cleaned_data/.gitkeep
 
-filled_data/
+filled_data/*
+!filled_data/.gitkeep
 
-dashboard.pbix
+data_clustering/*
+!data_clustering/.gitkeep
+
+dashboard_2.1.pbix
+
+dashboard_2.2.pbix
+
+catboost_info/
