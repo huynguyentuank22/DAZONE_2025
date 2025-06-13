@@ -15,3 +15,11 @@ dashboard_2.1.pbix
 dashboard_2.2.pbix
 
 catboost_info/
+
+Round_3/data/*
+!Round_3/data/.gitkeep
+
+Round_3/cleaned_data/*
+!Round_3/cleaned_data/.gitkeep
+
+visualize.pbix
