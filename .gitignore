@@ -22,4 +22,7 @@ Round_3/data/*
 Round_3/cleaned_data/*
 !Round_3/cleaned_data/.gitkeep
 
+Round_3/filled_data/*
+!Round_3/filled_data/.gitkeep
+
 visualize.pbix
