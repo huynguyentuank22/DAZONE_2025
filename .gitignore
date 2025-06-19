@@ -1,20 +1,20 @@
-data/*
-!data/.gitkeep
+Round_2/data/*
+!Round_2/data/.gitkeep
 
-cleaned_data/*
-!cleaned_data/.gitkeep
+Round_2/cleaned_data/*
+!Round_2/cleaned_data/.gitkeep
 
-filled_data/*
-!filled_data/.gitkeep
+Round_2/filled_data/*
+!Round_2/filled_data/.gitkeep
 
-data_clustering/*
-!data_clustering/.gitkeep
+Round_2/data_clustering/*
+!Round_2/data_clustering/.gitkeep
 
-dashboard_2.1.pbix
+Round_2/dashboard_2.1.pbix
 
-dashboard_2.2.pbix
+Round_2/dashboard_2.2.pbix
 
-catboost_info/
+Round_2/catboost_info/
 
 Round_3/data/*
 !Round_3/data/.gitkeep
@@ -25,4 +25,4 @@ Round_3/cleaned_data/*
 Round_3/filled_data/*
 !Round_3/filled_data/.gitkeep
 
-visualize.pbix
+Round_3/visualize.pbix
