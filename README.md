@@ -1,8 +1,8 @@
 # **[CUỘC THI PHÂN TÍCH DỮ LIỆU DAZONE 2025](https://www.facebook.com/DAZONE.RCS)**
-<div style="display: flex; justify-content: space-between;">
-  <img src="certificate/runner-up.jpg" alt="Runner-up" style="width: 50%;">
-  <img src="certificate/favourite.jpg" alt="Favourite" style="width: 50%;">
-</div>
+<p align="center">
+  <img src="certificate/runner-up.jpg" width="45%" />
+  <img src="certificate/favourite.jpg" width="45%" />
+</p>
 
 ## **LOICHOI - Team members**
 
