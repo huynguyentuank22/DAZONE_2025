@@ -16,7 +16,8 @@
 
 ```
 DAZONE_2025/
-├── Round_2
+├── certificate/                  # Certificate storage
+├── Round_2/                      # Everything in round 2
     ├── data/                     # Dataset storage
     ├── cleaned_data/             # Cleaned dataset storage
     ├── filled_data/              # Filled dataset storage for modeling
@@ -25,7 +26,7 @@ DAZONE_2025/
     ├── 2.1-report.pdf            # Report for case study 2.1
     ├── 2.2-modeling.ipynb        # Jupyter notebooks for modeling
     └── 2.2-slide.pdf             # Slide presentation for round 2.2
-├── Round_2
+├── Round_3/                      # Everything in round 3
     ├── data/                     # Dataset storage
     ├── cleaned_data/             # Cleaned dataset storage
     ├── filled_data/              # Filled dataset storage for modeling
