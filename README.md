@@ -1,7 +1,7 @@
-# <h1><strong><a href="https://www.facebook.com/DAZONE.RCS" style="color:#9c191b; text-decoration:none; font-weight:bold;">CUỘC THI PHÂN TÍCH DỮ LIỆU DAZONE 2025</a></strong></h1>
+<h1><strong><a href="https://www.facebook.com/DAZONE.RCS" style="color:#9c191b; text-decoration:none; font-weight:bold;">CUỘC THI PHÂN TÍCH DỮ LIỆU DAZONE 2025</a></strong></h1>
 
 
-## <h2><strong><span style="color:#ee0434; font-weight:bold">👋 INTRODUCTION</span></strong></h2>
+<h2><strong><span style="color:#ee0434; font-weight:bold">👋 INTRODUCTION</span></strong></h2>
 
 **1. LOICHOI - Team members**
 
@@ -25,7 +25,7 @@
 </p>
 
 
-## <h2><strong><span style="color:#ee0434; font-weight:bold">🗂️ PROJECT STRUCTURE</span></strong></h2>
+<h2><strong><span style="color:#ee0434; font-weight:bold">🗂️ PROJECT STRUCTURE</span></strong></h2>
 
 ```
 DAZONE_2025/
@@ -56,7 +56,7 @@ DAZONE_2025/
 ```
 
 
-## <h2><strong><span style="color:#ee0434; font-weight:bold">🌹 NOTE FOR OURSELVES</span></strong></h2>
+<h2><strong><span style="color:#ee0434; font-weight:bold">🌹 NOTE FOR OURSELVES</span></strong></h2>
 
   We went through three Business Case rounds together. Each round was a very tiring week. It was really hard because we had to do internships, take final exams, and go to class all at the same time. Every night, we'd call each other on Discord until late to find ideas, because we were all busy with school or internships during the day.
 
