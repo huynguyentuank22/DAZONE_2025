@@ -1,7 +1,7 @@
-# **[CUỘC THI PHÂN TÍCH DỮ LIỆU DAZONE 2025](https://www.facebook.com/DAZONE.RCS)**
+# <h1><strong><a href="https://www.facebook.com/DAZONE.RCS" style="color:#9c191b; text-decoration:none; font-weight:bold;">CUỘC THI PHÂN TÍCH DỮ LIỆU DAZONE 2025</a></strong></h1>
 
 
-## **👋 INTRODUCTION**
+## <h2><strong><span style="color:#ee0434; font-weight:bold">👋 INTRODUCTION</span></strong></h2>
 
 **1. LOICHOI - Team members**
 
@@ -13,11 +13,11 @@
 
 **2. About LOICHOI**
 
-We're **LOICHOI Team**, a group of high school friends who entered this competition together.
+  We're **LOICHOI Team**, a group of high school friends who entered this competition together.
 
-Back in 2024, our journey unfortunately ended in Round 1. But we returned in 2025, and were incredibly surprised by our results, making it all the way to the end of the contest. Honestly, this was our first time reaching the finals and presenting our product on stage. We are very thankful for this unique chance we've been given during our student years.
+  Back in 2024, our journey unfortunately ended in Round 1. But we returned in 2025, and were incredibly surprised by our results, making it all the way to the end of the contest. Honestly, this was our first time reaching the finals and presenting our product on stage. We are very thankful for this unique chance we've been given during our student years.
 
-Through this competition, we gained invaluable knowledge in the data world, from preprocessing &rarr; visualization &rarr; gaining insights &rarr; modeling &rarr; proposing suitable actions for problems. We also received excellent feedback from our mentors and examiners, who praised our analytical, logical, and systems thinking skills.
+  Through this competition, we gained invaluable knowledge in the data world, from preprocessing &rarr; visualization &rarr; gaining insights &rarr; modeling &rarr; proposing suitable actions for problems. We also received excellent feedback from our mentors and examiners, who praised our analytical, logical, and systems thinking skills.
 
 <p align="center">
   <img src="certificate/runner-up.jpg" width="45%" />
@@ -25,7 +25,7 @@ Through this competition, we gained invaluable knowledge in the data world, from
 </p>
 
 
-## **🗂️ PROJECT STRUCTURE**
+## <h2><strong><span style="color:#ee0434; font-weight:bold">🗂️ PROJECT STRUCTURE</span></strong></h2>
 
 ```
 DAZONE_2025/
@@ -54,3 +54,12 @@ DAZONE_2025/
 ├── .gitignore
 └── README.md
 ```
+
+
+## <h2><strong><span style="color:#ee0434; font-weight:bold">🌹 NOTE FOR OURSELVES</span></strong></h2>
+
+  We went through three Business Case rounds together. Each round was a very tiring week. It was really hard because we had to do internships, take final exams, and go to class all at the same time. Every night, we'd call each other on Discord until late to find ideas, because we were all busy with school or internships during the day.
+
+  But somehow, we still made it through. Even if our work wasn't the best, we were lucky that good results came as a surprise. Especially in Round 2.2, our project was even rated the best among the top 10 by the judges. What was even more surprising was the great support we got from our families and friends, from the start of the competition until the very last round. Every moment of this journey has been a very special experience that nothing else can compare to.
+
+Full respect for you guys.
